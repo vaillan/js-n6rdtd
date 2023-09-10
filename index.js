@@ -1,7 +1,6 @@
 // Import stylesheets
 import './style.css';
-// Import stylesheets
-import './style.css';
+
 import * as THREE from 'three';
 import Stats from 'three/addons/libs/stats.module.js';
 import { GUI } from 'three/addons/libs/lil-gui.module.min.js';
